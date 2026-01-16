@@ -6,18 +6,18 @@ This project showcases a machine learning-based end-to-end sentiment analysis pi
 
 What Takes Place in This Project
 
-Loading Data
+Loading Data -
 A Kaggle dataset is used to load Twitter sentiment data, which is then ready for analysis.
 
-Preprocessing Text
+Preprocessing Text -
 In order to prepare the data for machine learning, noise like stopwords, URLs, and special characters are eliminated from the raw tweet text.
 
-Extraction of Features
+Extraction of Features -
 TF-IDF vectorization transforms text input into numerical form so the model can comprehend word importance.
 
-Training Models
+Training Models -
 To discover sentiment trends, labeled tweet data is used to train a logistic regression model.
 
-Outcome
+Outcome -
 
 The final model successfully predicts whether a tweet expresses positive or negative sentiment, demonstrating practical application of machine learning to real-world text data.
